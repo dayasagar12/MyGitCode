@@ -10,6 +10,7 @@ public class APITestcase {
 	
 		
 		System.out.println("This is a API test case 1");
+		System.out.println("This is a API test case 1.1");
 		
 	}
 	
@@ -19,6 +20,7 @@ public class APITestcase {
 	
 		
 		System.out.println("This is a API test case 2");
+		System.out.println("This is a API test case 2.1");
 		
 	}
 

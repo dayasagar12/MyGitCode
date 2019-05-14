@@ -30,7 +30,6 @@ public class UITestcase {
 		System.out.println("This is a UI test case 3.1");
 	}
 	
-
 	@Test
 	public void UTestcase4() {
 	

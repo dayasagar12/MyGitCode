@@ -31,4 +31,13 @@ public class UITestcase {
 	}
 	
 
+	@Test
+	public void UTestcase4() {
+	
+		
+		System.out.println("This is a UI test case 4");
+		System.out.println("This is a UI test case 4.1");
+	}
+	
+	
 }
